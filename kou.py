@@ -1,2 +1,4 @@
+a=8
 for i in range(1):
-    print("Hola mundo")
+    if a!=8:
+        print("Hola mundo")
