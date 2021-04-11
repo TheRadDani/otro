@@ -1,4 +1,5 @@
-
+*.bin
 pruebas
 *.c
 commits.txt
+*.html
